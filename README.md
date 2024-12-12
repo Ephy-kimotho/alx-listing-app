@@ -6,7 +6,7 @@ The ALX Listing App project aims to develop an airBnb clone build using Next JS,
 The project is strucutred into the following directories:
 - **components:** this is where reusable compontents are placed.
 - **pages:** this is where the app pages are placed.
-- **interfaces:**: this is where interfaces used in the project are defined.
+- **interfaces:** this is where interfaces used in the project are defined.
 - **constants:** this folder is where constants used in the project are defined.
 - **public/assets:** images, icons, SVGs used in the project are stored here.
 
